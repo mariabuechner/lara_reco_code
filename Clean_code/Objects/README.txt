@@ -1,0 +1,1 @@
+Dictionary containig phantom object parameters 
